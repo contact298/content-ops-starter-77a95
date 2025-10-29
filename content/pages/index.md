@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Services
+      label: About Us
       color: text-primary
       type: Badge
     elementId: ''
