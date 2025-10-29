@@ -61,7 +61,7 @@ sections:
     subtitle: Check our our range of services
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Lawn Mowing
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
