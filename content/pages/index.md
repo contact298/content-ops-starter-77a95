@@ -7,7 +7,7 @@ sections:
       text: Property Maintenance and Household Assistance
       color: text-dark
       type: TitleBlock
-    subtitle: 'Property Maintenance, Home Assistance, and Automotive Services'
+    subtitle: 'Lawn mowing, household management, and automotive help.'
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
