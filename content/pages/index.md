@@ -58,7 +58,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Check our our range of services
     items:
       - type: FeaturedItem
         title: 500k
