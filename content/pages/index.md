@@ -12,7 +12,7 @@ sections:
       From mowing the lawns, trimming the hedges and pulling out weeds to
       support with household tasks and getting around, we're here to help!
     actions:
-      - label: Get started
+      - label: Book
         altText: ''
         url: /
         showIcon: false
