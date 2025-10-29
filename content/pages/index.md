@@ -63,10 +63,10 @@ sections:
       - type: FeaturedItem
         title: Lawn Mowing
         subtitle: $50
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          If your lawns are getting a bit long, your lawnmower's broken or
+          you're too busy, give us a call. We can cut the grass and take away
+          the waste, as well as pulling out weeds and trimming hedges.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
