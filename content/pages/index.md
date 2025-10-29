@@ -91,10 +91,13 @@ sections:
               borderRadius: x-large
       - title: Automotive
         subtitle: $80
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          If you need an oil change you can bring your car to the workshop or we
+          can come to your driveway. We get the job done and show you how to do
+          it yourself, providing the oil and filter required for your vehicle.
+          Our aim is to support you to independence through coaching. Once
+          you're confident completing these tasks yourself, we can be your
+          supplier for low cost oil and parts.
         image:
           url: '/images/ChatGPT Image Oct 29, 2025, 08_49_38 PM.png'
           altText: Featured icon two
