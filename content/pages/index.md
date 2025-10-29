@@ -119,10 +119,14 @@ sections:
         type: FeaturedItem
       - title: Household Assistance.
         subtitle: $50
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          If you need support with cooking, cleaning, or getting around, we're
+          here to help. Work with us to come up with a plan and book our
+          services at a time that suits you. We can help you with these
+          household tasks and coach you in the required life skills, supporting
+          you towards independence. We can also provide you with the cleaning
+          products, household necessities and kitchen supplies to keep your
+          household running efficiently at low cost.
         image:
           url: '/images/ChatGPT Image Oct 29, 2025, 08_53_21 PM.png'
           altText: Featured icon three
