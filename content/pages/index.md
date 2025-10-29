@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Property Maintenance and Lifestyle Services
+      text: Property Maintenance and Household Assistance
       color: text-dark
       type: TitleBlock
     subtitle: 'Property Maintenance, Home Assistance, and Automotive Services'
