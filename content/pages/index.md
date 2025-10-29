@@ -124,7 +124,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: '/images/ChatGPT Image Oct 29, 2025, 08_53_21 PM.png'
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
